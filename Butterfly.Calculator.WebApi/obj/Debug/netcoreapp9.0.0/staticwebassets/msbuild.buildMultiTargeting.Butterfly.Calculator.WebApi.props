@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Butterfly.Calculator.WebApi.props" />
+</Project>

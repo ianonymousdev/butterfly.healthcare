@@ -1,0 +1,13 @@
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Core.deps.json
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Core.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Core.pdb
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Public.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Public.pdb
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.csproj.AssemblyReference.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.AssemblyInfoInputs.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.AssemblyInfo.cs
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.csproj.CoreCompileInputs.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfl.4ECEBB59.Up2Date
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Core/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Core.pdb

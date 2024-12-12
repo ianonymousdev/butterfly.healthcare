@@ -1,0 +1,15 @@
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Services.deps.json
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Services.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Services.pdb
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Core.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Public.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Core.pdb
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/bin/Debug/netcoreapp3.1/Butterfly.Calculator.Public.pdb
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.csproj.AssemblyReference.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.AssemblyInfoInputs.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.AssemblyInfo.cs
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.csproj.CoreCompileInputs.cache
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfl.99DB44EB.Up2Date
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.dll
+/Users/irfan/Projects/Butterfly.Calculator/Butterfly.Calculator.Services/obj/Debug/netcoreapp3.1/Butterfly.Calculator.Services.pdb

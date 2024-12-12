@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "55kLWM2r+uAe/v8ZvfXwLXDYM53hDc5piDyoAVUC/7o=",
+  "Source": "Butterfly.Calculator.WebApi",
+  "BasePath": "_content/Butterfly.Calculator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
